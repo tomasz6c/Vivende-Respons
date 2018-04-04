@@ -1,0 +1,22 @@
+.slicknav_menu {
+    display:none;
+}
+
+@media screen and (max-width:1661px) 
+{
+    #menu
+    {
+        display: none;
+    }
+    .slicknav_menu
+    {
+        display: inline-block;
+        position: fixed;
+        background: transparent;
+        z-index: 1000;
+        right: 0;
+        
+
+        
+    }
+ 
